@@ -1,0 +1,46 @@
+# maven ignore
+target/
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+bin/
+*.class
+.settings/
+
+# java class
+classes/
+
+
+# map data
+sogou_offset/
+*.dat
+baidu_offset/
+*.dat
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+logs/
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# other ignore
+.metadata
+/.metadata/
+/Servers/
+dist/
+plugin-geo/
